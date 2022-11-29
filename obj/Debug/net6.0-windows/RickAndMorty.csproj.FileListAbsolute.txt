@@ -1,0 +1,17 @@
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\bin\Debug\net6.0-windows\RickAndMorty.exe
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\bin\Debug\net6.0-windows\RickAndMorty.deps.json
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\bin\Debug\net6.0-windows\RickAndMorty.runtimeconfig.json
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\bin\Debug\net6.0-windows\RickAndMorty.dll
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\bin\Debug\net6.0-windows\RickAndMorty.pdb
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.csproj.AssemblyReference.cache
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.Form1.resources
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.csproj.GenerateResource.cache
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.AssemblyInfoInputs.cache
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.AssemblyInfo.cs
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.csproj.CoreCompileInputs.cache
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.dll
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\refint\RickAndMorty.dll
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.pdb
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\RickAndMorty.genruntimeconfig.cache
+D:\Documentos\Documentos Uni 5to Semestre\Interfaces Graficas\Visual Studio\RickAndMorty\obj\Debug\net6.0-windows\ref\RickAndMorty.dll
